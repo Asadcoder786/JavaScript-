@@ -72,6 +72,44 @@
 // joinArray.join(joinArray)
 // console.log(joinArray)
 
+// let fifo = ["keyboard" , "Mouse", "printer", "monitor"]
+// console.log(fifo)
+// fifo.pop()
+// console.log(fifo)
+// fifo.shift()
+// console.log(fifo)
+// console.log(fifo)
+// fifo.pop()
+// console.log(fifo)
+// fifo.shift()
+// console.log(fifo)
+
+
+// let lifo = ["keyboard","Mouse","Printer","Monitor"]
+// console.log(lifo)
+// lifo.pop()
+// console.log(lifo)
+// lifo.pop()
+// console.log(lifo)
+// lifo.pop()
+// console.log(lifo)
+// lifo.pop()
+// console.log(lifo)
+
+
+// let dropdown = [`
+//     <select >
+//         <option >Samsung</option>
+//         <option >Iphone</option>
+//         <option >Motrola</option>
+//         <option >Sony</option>
+//         <option >Redmi</option>
+//         <option >Realme</option>
+//     </select>`]
+//     document.writeln(dropdown)
+    
+
+
 
 
 
